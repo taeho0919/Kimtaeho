@@ -1,0 +1,95 @@
+# Blender MTL File: 'Kuntilanak.blend'
+# Material Count: 8
+
+newmtl Baju
+Ns 83.473112
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Baju\\Baju_Normal.tga
+
+newmtl Body
+Ns 225.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Textures\\Body\\body_normal_4k_V2.tga
+map_Kd Textures\\Body\\Body_Color_4k.tga
+
+newmtl Brows
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.800000 0.800000 0.800000
+Ks 0.027273 0.027273 0.027273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Textures\\Brows\\Brows_color.tga
+map_d Textures\\Brows\\Brows_color.tga
+
+newmtl Eyelash
+Ns 119.008272
+Ka 0.654545 0.654545 0.654545
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Textures\\Eyelash\\Eyelash.tga
+map_d Textures\\Eyelash\\Eyelash.tga
+
+newmtl Eyes
+Ns 0.074380
+Ka 1.000000 1.000000 1.000000
+Kd 0.015691 0.015691 0.015691
+Ks 0.018182 0.018182 0.018182
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Textures\\Eyes\\Eyes.tga
+
+newmtl Hair
+Ns 13.555786
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Textures\\Hair\\Hair_Normal.tga
+map_d Textures\\Hair\\Hair_Color.tga
+
+newmtl Tooth
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.013636 0.013636 0.013636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Tooth\\Tooth_normal.tga
+map_Kd Textures\\Tooth\\Tooth_color.tga
+
+newmtl hair_line
+Ns 0.000000
+Ka 0.945455 0.945455 0.945455
+Kd 0.800000 0.800000 0.800000
+Ks 0.013636 0.013636 0.013636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_d I:\\ASSET\\JUAL\\SCHOOL GIRL\\Textures\\Hair_Line\\Hair_Line.tga
