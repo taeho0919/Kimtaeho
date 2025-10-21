@@ -1,0 +1,3 @@
+First of all thanks for purcashing this asset!
+
+Player control keys: W,S,A,D - walk, E - open doors and windows, F - toggle on off flashlight.
